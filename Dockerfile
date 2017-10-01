@@ -1,4 +1,4 @@
-FROM node:8.5.0-slim
+FROM node:8.6.0-slim
 
 MAINTAINER Lewis Liu
 
